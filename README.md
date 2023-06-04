@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anups1ngh" alt="anups1ngh" /></a> </p>
 
-- 🔭 I’m currently working on [SugamKrishiApp](https://github.com/anups1ngh/Sugam-Krishi)
+- 🔭 I’m currently working on [SSL]
 
 - 👯 I’m looking to collaborate on [MERN Stack Web](https://github.com/anups1ngh/SugamKrishi)
 
