@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anups1ngh&label=Profile%20views&color=0e75b6&style=flat" alt="anups1ngh" /> </p>
 
 
-- 🔭 I’m currently working on [SSL]
-
-- 👯 I’m looking to collaborate on [MERN Stack Web](https://github.com/anups1ngh/SugamKrishi)
+- 🔭 I’m currently working on Tailwind CSS
 
 - 💬 Ask me about **MERN Stack Dev**
 
