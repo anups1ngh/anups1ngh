@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anups1ngh&label=Profile%20views&color=0e75b6&style=flat" alt="anups1ngh" /> </p>
 
 
-- 🔭 I’m currently working on Tailwind CSS
+- 🔭 I’m currently working on Gen AI
 
 - 💬 Ask me about **MERN Stack Dev**
 
