@@ -29,6 +29,6 @@
 
 
 ## 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=anups1ngh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anups1ngh&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=anups1ngh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=anups1ngh&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anups1ngh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
